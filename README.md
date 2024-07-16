@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ridwan Badamasi</h1>
 <h3 align="center">A self-taught web developer from Nigeria.</h3>
 
-- 🌱 I’m currently learning **Python and SQL.**
+- 🌱 Pursuing Data Engineering: I’m currently learning **Python and SQL.**
 
 - You can reach me at **ridhwanullahb@gmail.com**
 
