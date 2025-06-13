@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ridwan Badamasi</h1>
+<h1 align="center">Hi, I'm Ridwan</h1>
 <h3 align="center">.</h3>
 
 - 🌱 Pursuing Data Engineering: I’m currently learning **Python and SQL.**
