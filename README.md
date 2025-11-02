@@ -1,6 +1,6 @@
 # Hi, I'm Ridwan! 
 
-I'm an epidemiologist and aspiring **Data Engineer** currently honing my skills at **AltSchool Africa**. I'm passionate about transforming raw data into meaningful insights and building robust data pipelines. 
+Epidemiologist here! I'm currently enrolled in **AltSchool Africa**'s **Data Engineering** program. 
 
 ## 🌱 What I'm Learning
 - **Python**: Building data processing scripts, automation, and working with libraries like Pandas and PySpark.
@@ -10,7 +10,7 @@ I'm an epidemiologist and aspiring **Data Engineer** currently honing my skills 
 
 ## 🚀 Projects
 - Working on personal projects to build end-to-end data pipelines.
-- Experimenting with real-world datasets to practice data cleaning, transformation, and analysis.
+- Experimenting with real-world datasets(mostly health and infection data) to practice data cleaning, transformation, and analysis.
 
 ## 📫 Connect with Me
 - **Email**: [ridhwanullahb@gmail.com](mailto:ridhwanullahb@gmail.com)
@@ -36,8 +36,5 @@ I'm an epidemiologist and aspiring **Data Engineer** currently honing my skills 
   </a>
 </p>
 
-## 💡 About Me
-- I'm committed to mastering the art & science of data engineering.
-- Always open to collaborating on exciting data projects or learning new tools!
 
 Thanks for visiting my profile!
